@@ -2,4 +2,4 @@
 
 ## Preview :
 
-<img src="https://github.com/MobileVerse/Responsive-UI-Flutter-App/blob/main/ss/gif1.gif" width="200"/>
+<img src="https://github.com/MobileVerse/Responsive-UI-Flutter-App/blob/main/ss/gif1.gif" height="350"/>
